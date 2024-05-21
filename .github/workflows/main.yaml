@@ -2,7 +2,7 @@ name: Generate README stats
 
 on:
   schedule:
-    - cron: '25 12 * * 1'  # Runs at 12:25 PM UTC every Monday
+    - cron: '0 16 * * *'  # Runs at 4:00 PM UTC every day
   workflow_dispatch:
 
 jobs:
