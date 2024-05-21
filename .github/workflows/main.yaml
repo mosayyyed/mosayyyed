@@ -16,33 +16,6 @@ jobs:
       
       - name: Generate README
         run: |
-          echo '<h2 align="center"> Welcome to Mohamed Elsayed'"'"'s profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> </h2>' > README.md
-          echo '' >> README.md
-          echo '# 💫 About Me:' >> README.md
-          echo '<p align="left">' >> README.md
-          echo '  <img align="right" height="150" src="https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif?cid=ecf05e47o5pwsrpin5js8gb9vcj27kcn8w69ztk52c8599bo&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />' >> README.md
-          echo '' >> README.md
-          echo 'Hi, I'"'"'m a software engineer with a passion for creating innovative solutions. My Github profile showcases some of my latest projects, which highlight my skills in coding, problem-solving, and collaboration. I'"'"'m always striving to learn and grow as a developer, and I'"'"'m excited about the possibilities that lie ahead.</p>' >> README.md
-          echo '' >> README.md
-          echo '# 🌐 Socials:' >> README.md
-          echo '<div class="container" style="height: 400px;">' >> README.md
-          echo '' >> README.md
-          echo '[![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://linkedin.com/in/mosayyyed)' >> README.md
-          echo '[![Gmail](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg)](mailto:mosayyyed@gmail.com)' >> README.md
-          echo '[![Facebook](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg)](https://facebook.com/mosayyyed)' >> README.md
-          echo '</div>' >> README.md
-          echo '' >> README.md
-          echo '# 💻 Tech Stack:' >> README.md
-          echo '' >> README.md
-          echo '![Flutter](https://skillicons.dev/icons?i=flutter)' >> README.md
-          echo '![C++](https://skillicons.dev/icons?i=cpp)' >> README.md
-          echo '![Dart](https://skillicons.dev/icons?i=dart)' >> README.md
-          echo '![Kotlin](https://skillicons.dev/icons?i=kotlin)' >> README.md
-          echo '![AndroidStudio](https://skillicons.dev/icons?i=androidstudio)' >> README.md
-          echo '![Java](https://skillicons.dev/icons?i=java)' >> README.md
-          echo '![Swift](https://skillicons.dev/icons?i=swift)' >> README.md
-          echo '![C#](https://skillicons.dev/icons?i=cs)' >> README.md
-          echo '' >> README.md
           echo '# 📊 GitHub Stats:' >> README.md
           echo '' >> README.md
           echo '![](https://github-readme-stats.vercel.app/api?username=mosayyyed&theme=blueberry&hide_border=true&include_all_commits=false&count_private=false)<br/>' >> README.md
