@@ -24,6 +24,7 @@ Hi, I'm a software engineer with a passion for creating innovative solutions. My
 ![Java](https://skillicons.dev/icons?i=java)
 ![Swift](https://skillicons.dev/icons?i=swift)
 ![C#](https://skillicons.dev/icons?i=cs)
+![Antigravity](https://media.licdn.com/dms/image/v2/D560BAQG5wmEaqHfmDg/company-logo_200_200/B56ZqUSJh0I4AM-/0/1763424377586/google_antigravity_logo?e=1765411200&v=beta&t=WwuFYklz2gTEVHnEWzogv3lBog0TwaBXPEwpME_LaOE)
 
 # 📊 GitHub Stats:
 
