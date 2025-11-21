@@ -17,14 +17,24 @@ Hi, I'm a software engineer with a passion for creating innovative solutions. My
 # 💻 Tech Stack:
 
 ![Flutter](https://skillicons.dev/icons?i=flutter)
-![C++](https://skillicons.dev/icons?i=cpp)
 ![Dart](https://skillicons.dev/icons?i=dart)
-![Kotlin](https://skillicons.dev/icons?i=kotlin)
 ![AndroidStudio](https://skillicons.dev/icons?i=androidstudio)
+![Mac](https://skillicons.dev/icons?i=mac)
+![vscode](https://skillicons.dev/icons?i=vscode)
+![firebase](https://skillicons.dev/icons?i=firebase)
+![figma](https://skillicons.dev/icons?i=figma)
+![gcp](https://skillicons.dev/icons?i=gcp)
+![gradle](https://skillicons.dev/icons?i=gradle)
+![notion](https://skillicons.dev/icons?i=notion)
+![postman](https://skillicons.dev/icons?i=postman)
+![ruby](https://skillicons.dev/icons?i=ruby)
+![git](https://skillicons.dev/icons?i=git)
+![github](https://skillicons.dev/icons?i=github)
+![supabase](https://skillicons.dev/icons?i=supabase)
+![Kotlin](https://skillicons.dev/icons?i=kotlin)
+![C++](https://skillicons.dev/icons?i=cpp)
 ![Java](https://skillicons.dev/icons?i=java)
 ![Swift](https://skillicons.dev/icons?i=swift)
-![C#](https://skillicons.dev/icons?i=cs)
-![Antigravity](https://media.licdn.com/dms/image/v2/D560BAQG5wmEaqHfmDg/company-logo_200_200/B56ZqUSJh0I4AM-/0/1763424377586/google_antigravity_logo?e=1765411200&v=beta&t=WwuFYklz2gTEVHnEWzogv3lBog0TwaBXPEwpME_LaOE)
 
 # 📊 GitHub Stats:
 
