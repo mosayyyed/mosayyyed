@@ -9,9 +9,8 @@ Hi, I'm a software engineer with a passion for creating innovative solutions. My
 # 🌐 Socials:
 <div class="container" style="height: 400px;">
 
-[![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://linkedin.com/in/mosayyyed)
-[![Gmail](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg)](mailto:mosayyyed@gmail.com)
-[![Facebook](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg)](https://facebook.com/mosayyyed)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/mosayyyed)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:mosayyyed@gmail.com)
 </div>
 
 # 💻 Tech Stack:
@@ -19,7 +18,9 @@ Hi, I'm a software engineer with a passion for creating innovative solutions. My
 ![Flutter](https://skillicons.dev/icons?i=flutter)
 ![Dart](https://skillicons.dev/icons?i=dart)
 ![AndroidStudio](https://skillicons.dev/icons?i=androidstudio)
-![Mac](https://skillicons.dev/icons?i=mac)
+![apple](https://skillicons.dev/icons?i=apple)
+![windows](https://skillicons.dev/icons?i=windows)
+
 ![vscode](https://skillicons.dev/icons?i=vscode)
 ![firebase](https://skillicons.dev/icons?i=firebase)
 ![figma](https://skillicons.dev/icons?i=figma)
