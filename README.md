@@ -6,7 +6,7 @@
 
 Hi, I'm a software engineer with a passion for creating innovative solutions. My Github profile showcases some of my latest projects, which highlight my skills in coding, problem-solving, and collaboration. I'm always striving to learn and grow as a developer, and I'm excited about the possibilities that lie ahead.</p>
 
-# 🌐 Socials:
+# 🌐 Connect With Me:
 <div class="container" style="height: 400px;">
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/mosayyyed)
